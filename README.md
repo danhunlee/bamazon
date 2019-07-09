@@ -42,9 +42,9 @@ The bamazon apps can be operated by entering commands in the terminal as instruc
 ### Testing
 This link is a demo version of this app. 
 * [bamazon Test demo](bamazonDemo.mov)
-![bamazonCustomer.js](/Img & Test demo/Screen Shot 2019-07-08 at 8.08.55 PM.png)
-![bamazonManager.js1](/Img & Test demo/Screen Shot 2019-07-08 at 8.10.19 PM.png)
-![bamazonManager.js2](/Img & Test demo/Screen Shot 2019-07-08 at 8.10.59 PM.png)
+![bamazonCustomer](/Img & Test demo/Screen Shot 2019-07-08 at 8.08.55 PM.png)
+![bamazonManager1](/Img & Test demo/Screen Shot 2019-07-08 at 8.10.19 PM.png)
+![bamazonManager2](/Img & Test demo/Screen Shot 2019-07-08 at 8.10.59 PM.png)
 
 
 
