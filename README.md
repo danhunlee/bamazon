@@ -45,6 +45,8 @@ The bamazon apps can be operated by entering commands in the terminal as instruc
 * A representation of what a manager can do.
 ![bamazonManager1](Img/manager1.png)
 ![bamazonManager2](Img/manager2.png)
+* Demo Video
+[link to demoVideo](demoVideo/bamazonDemo.mov)
 
 
 
