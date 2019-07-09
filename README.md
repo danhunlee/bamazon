@@ -46,7 +46,7 @@ The bamazon apps can be operated by entering commands in the terminal as instruc
 ![bamazonManager1](Img/manager1.png)
 ![bamazonManager2](Img/manager2.png)
 * Demo Video
-[link to demoVideo](demoVideo/bamazonDemo.mov)
+[link](demoVideo/bamazonDemo.mov)
 
 
 
