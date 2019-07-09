@@ -40,9 +40,9 @@ The bamazon apps can be operated by entering commands in the terminal as instruc
 *node bamazonManager.js*
 
 ### Testing
-This link is a demo version of this app. 
-<!-- * [bamazon Test demo](bamazonDemo.mov) -->
+* A representation of what a customer can do. 
 ![bamazonCustomer](Img/customer.png)
+* A representation of what a manager can do.
 ![bamazonManager1](Img/manager1.png)
 ![bamazonManager2](Img/manager2.png)
 
